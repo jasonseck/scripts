@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html class="nojs"><head>
+    <title>santa fe all for sale / wanted classifieds &quot;f100&quot; - craigslist</title>
+
+    <meta name="description" content="santa fe all for sale / wanted classifieds &quot;f100&quot; - craigslist">
+    <link rel="alternate" type="application/rss+xml" href="http://santafe.craigslist.org/search/sss?query=f100&amp;format=rss" title="RSS feed for craigslist | all for sale / wanted &quot;f100&quot; in santa fe ">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/clnew.css?v=a7390209757f7dad31d70beee8954d35">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-1.9.2.custom.css?v=cb67f2e720fe8a2c7d83234590b2d1ed">
+    
+    
+    
+		<script type="text/javascript"><!--
+			var currencySymbol = "$";
+var zoomToPosting = null;
+var showInfoText = "show info";
+var imageHost = "http://images.craigslist.org";
+var areaId = "218";
+var lessInfoText = "less info";
+var showMapTabs = 1;
+var areaCountry = "US";
+var starHint = "save this post in your favorites list";
+var expFaves = "";
+var pID = null;
+var catAbb = "sss";
+var catType = "sss";
+
+		--></script>
+	
+    
+		<script type="text/javascript"><!--
+			var lsDomain = "www";
+
+		--></script>
+	
+    <!--[if lt IE 9]>
+<script type="text/javascript" src="//www.craigslist.org/js/html5shiv.js?v=ed7af45dcbda983c8455631037ebcdda" ></script>
+<![endif]-->
+</head>
+
+<body class="toc search">
+    <script type="text/javascript"><!--
+	function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+	var pagetype, pagemode;
+	(function(){
+		var h = document.documentElement;
+		h.className = h.className.replace('nojs', '');
+		var b = document.body;
+		var bodyClassList = b.className.split(/\s+/);;
+		pagetype = bodyClassList[0];
+		var fmt = C('cl_fmt');
+		if (fmt) {
+			pagemode = fmt;
+			bodyClassList.push(fmt);
+		} else if (screen.width <= 480) {
+			pagemode = 'mobile';
+			bodyClassList.push(pagemode);
+		}
+		var width = window.innerWidth || document.documentElement.clientWidth;
+		if (width > 1000) { bodyClassList.push('w1024'); }
+		if (typeof catType !== 'undefined') {
+			var mode = (decodeURIComponent(C('cl_img') || '').match(new RegExp(catType + ':([^,]+)', 'i')) || {})[1];
+			for (var i = 0, len = bodyClassList.length; i < len; i++){
+				if (bodyClassList[i] === 'map') { mode = undefined; }
+			}
+			if (mode) { bodyClassList.push(mode); }
+		}
+		b.className = bodyClassList.join(' ');
+	}());
+--></script>
+
+
+    <article id="pagecontainer">
+
+        <header class="bchead">
+	<div class="contents closed">
+		<div class="topright_box">
+			<div id="ef">
+	[ <a href="http://www.craigslist.org/about/help/">help</a> ] 
+	[ <a href="https://post.craigslist.org/c/saf?lang=en">post</a> ]
+</div>
+			<div id="favorites">
+    <a href="#" class="favlink"><span class="n">0</span> favorites</a>
+</div>
+		</div>
+		<div class="dropdown down">&or;</div>
+		<div class="dropdown up">&and;</div>
+		<div class="leftside">
+            <button class="back">&lt;</button>
+            <div class="breadbox">
+                <div class="breadcrumbs">
+                    <span class="crumb"><a href="//www.craigslist.org/about/sites">CL</a></span>
+                    <span class="crumb"><a href="/">santa fe</a></span>    <span class="crumb"><a href="/sss/">for sale / wanted</a></span> 
+                </div>
+            </div>
+		</div>
+        
+	</div>
+</header>
+
+        <blockquote class="searchform">
+            
+		<script type="text/javascript"><!--
+			var catAbb = "sss";
+
+		--></script>
+	
+<form action="/search/sss" id="searchform" method="get" accept-charset="utf-8">
+
+    <fieldset id="searchfieldset">
+    <legend id="searchlegend"><select id="catAbb" name="catAbb">
+
+                <option value="ccc">all community
+
+                <option value="eee">all event
+
+                <option value="sss" selected>all for sale / wanted
+<option disabled value="">--
+<option value="ata"> antiques
+<option data-acat="ata" value="atd"> antiques - by dealer
+<option data-acat="ata" value="atq"> antiques - by owner
+<option value="ppa"> appliances
+<option data-acat="ppa" value="ppd"> appliances - by dealer
+<option data-acat="ppa" value="app"> appliances - by owner
+<option value="ara"> arts+crafts
+<option data-acat="ara" value="ard"> arts &amp; crafts - by dealer
+<option data-acat="ara" value="art"> arts &amp; crafts - by owner
+<option value="sna"> atvs/utvs/snowmobiles
+<option data-acat="sna" value="snd"> atvs, utvs, snowmobiles - by dea
+<option data-acat="sna" value="sno"> atvs, utvs, snowmobiles - by own
+<option value="pta"> auto parts
+<option data-acat="pta" value="ptd"> auto parts - by dealer
+<option data-acat="pta" value="pts"> auto parts - by owner
+<option value="baa"> baby+kids
+<option data-acat="baa" value="bad"> baby &amp; kid stuff - by dealer
+<option data-acat="baa" value="bab"> baby &amp; kid stuff - by owner
+<option value="bar"> barter
+<option value="haa"> beauty+hlth
+<option data-acat="bia" value="bid"> bicycles - by dealer
+<option data-acat="bia" value="bik"> bicycles - by owner
+<option value="bia"> bikes
+<option value="boo"> boats
+<option data-acat="boo" value="bod"> boats - by dealer
+<option data-acat="boo" value="boa"> boats - by owner
+<option value="bka"> books
+<option data-acat="bka" value="bkd"> books &amp; magazines - by dealer
+<option data-acat="bka" value="bks"> books &amp; magazines - by owner
+<option value="bfa"> business
+<option data-acat="bfa" value="bfd"> business/commercial - by dealer
+<option data-acat="bfa" value="bfs"> business/commercial - by owner
+<option value="cta"> cars+trucks
+<option data-acat="cta" value="ctd"> cars &amp; trucks - by dealer
+<option data-acat="cta" value="cto"> cars &amp; trucks - by owner
+<option data-acat="ema" value="emq"> cds / dvds / vhs - by dealer
+<option data-acat="ema" value="emd"> cds / dvds / vhs - by owner
+<option value="ema"> cds/dvd/vhs
+<option value="moa"> cell phones
+<option data-acat="moa" value="mod"> cell phones - by dealer
+<option data-acat="moa" value="mob"> cell phones - by owner
+<option value="cla"> clothes+acc
+<option data-acat="cla" value="cld"> clothing &amp; accessories - by deal
+<option data-acat="cla" value="clo"> clothing &amp; accessories - by owne
+<option value="cba"> collectibles
+<option data-acat="cba" value="cbd"> collectibles - by dealer
+<option data-acat="cba" value="clt"> collectibles - by owner
+<option value="sya"> computers
+<option data-acat="sya" value="syd"> computers - by dealer
+<option data-acat="sya" value="sys"> computers - by owner
+<option value="ela"> electronics
+<option data-acat="ela" value="eld"> electronics - by dealer
+<option data-acat="ela" value="ele"> electronics - by owner
+<option value="gra"> farm+garden
+<option data-acat="gra" value="grq"> farm &amp; garden - by dealer
+<option data-acat="gra" value="grd"> farm &amp; garden - by owner
+<option data-acat="sss" value="ssq"> for sale by dealer
+<option data-acat="sss" value="sso"> for sale by owner
+<option value="zip"> free stuff
+<option value="fua"> furniture
+<option data-acat="fua" value="fud"> furniture - by dealer
+<option data-acat="fua" value="fuo"> furniture - by owner
+<option value="gms"> garage sales
+<option value="foa"> general
+<option data-acat="foa" value="fod"> general for sale - by dealer
+<option data-acat="foa" value="for"> general for sale - by owner
+<option data-acat="haa" value="had"> health and beauty - by dealer
+<option data-acat="haa" value="hab"> health and beauty - by owner
+<option value="hva"> heavy equipment
+<option data-acat="hva" value="hvd"> heavy equipment - by dealer
+<option data-acat="hva" value="hvo"> heavy equipment - by owner
+<option value="hsa"> household
+<option data-acat="hsa" value="hsd"> household items - by dealer
+<option data-acat="hsa" value="hsh"> household items - by owner
+<option value="jwa"> jewelry
+<option data-acat="jwa" value="jwd"> jewelry - by dealer
+<option data-acat="jwa" value="jwl"> jewelry - by owner
+<option value="maa"> materials
+<option data-acat="maa" value="mad"> materials - by dealer
+<option data-acat="maa" value="mat"> materials - by owner
+<option value="mpa"> motorcycle parts &amp; acc
+<option data-acat="mpa" value="mpd"> motorcycle parts/acc - by dealer
+<option data-acat="mpa" value="mpo"> motorcycle parts/acc - by owner
+<option value="mca"> motorcycles
+<option data-acat="mca" value="mcd"> motorcycles/scooters - by dealer
+<option data-acat="mca" value="mcy"> motorcycles/scooters - by owner
+<option data-acat="msa" value="msd"> musical instruments - by dealer
+<option data-acat="msa" value="msg"> musical instruments - by owner
+<option value="msa"> music instr
+<option value="pha"> photo+video
+<option data-acat="pha" value="phd"> photo/video - by dealer
+<option data-acat="pha" value="pho"> photo/video - by owner
+<option value="rva"> recreational vehicles
+<option data-acat="rva" value="rvd"> rvs - by dealer
+<option data-acat="rva" value="rvs"> rvs - by owner
+<option value="sga"> sporting
+<option data-acat="sga" value="sgd"> sporting goods - by dealer
+<option data-acat="sga" value="spo"> sporting goods - by owner
+<option value="tia"> tickets
+<option data-acat="tia" value="tid"> tickets - by dealer
+<option data-acat="tia" value="tix"> tickets - by owner
+<option value="tla"> tools
+<option data-acat="tla" value="tld"> tools - by dealer
+<option data-acat="tla" value="tls"> tools - by owner
+<option value="taa"> toys+games
+<option data-acat="taa" value="tad"> toys &amp; games - by dealer
+<option data-acat="taa" value="tag"> toys &amp; games - by owner
+<option value="vga"> video gaming
+<option data-acat="vga" value="vgd"> video gaming - by dealer
+<option data-acat="vga" value="vgm"> video gaming - by owner
+<option value="waa"> wanted
+<option data-acat="waa" value="wad"> wanted - by dealer
+<option data-acat="waa" value="wan"> wanted - by owner
+<option disabled value="">--
+
+                <option value="ggg">all gigs
+
+                <option value="hhh">all housing
+
+                <option value="jjj">all jobs
+
+                <option value="ppp">all personals
+
+                <option value="res">all resume
+
+                <option value="bbb">all services offered
+</select><span class="posterpicker"><a href="../sso" data-cat="sso">owner</a><b> | </b><a href="../ssq" data-cat="ssq">dealer</a><b> | </b><b>all</b></span></legend>
+	<div class="experimentalFeature">
+    	     
+    	</div>
+	<div id="searchtable">
+		<span class="searchgroup">
+			<span>
+				<input id="query" name="query" data-suggest="search" size="24" value="f100" placeholder="search" autocorrect="off" autocapitalize="off">
+			</span>
+			<input id="searchbtn" type="submit" value="search">
+		</span>
+		<span class="searchgroup">
+			<span id="searchchecks">
+				<input type="checkbox" name="useMap" id="useMap" style="display:none;" value="1">
+				<input id="zoomtoposting" type="hidden" name="zoomToPosting" value="">
+			</span>
+		</span>
+
+		<span class="searchgroup">
+	price:
+	<input name="minAsk" class="min" size="5" placeholder="min" value="">
+	<input name="maxAsk" class="max" size="5" placeholder="max" value="">
+</span>
+
+		
+
+		
+		<span class="searchgroup">
+			<label>
+				<input type="checkbox" name="hasPic" value="1" ><span class="haspic">pic</span>
+			</label>
+			<label>
+					<input type="checkbox" name="srchType" value="T"
+					title="search only posting titles">title
+			</label>
+		</span>
+
+        
+	</div>
+    </fieldset>
+</form>
+        </blockquote>
+
+        <section class="body">
+            <section class="favlistinfo">
+                
+                
+            </section>
+
+            <div id="toc_rows">
+                <div class="toc_legend">
+                    <div class="center">
+                        <span class="tocview buttongroup"><a href="#list" title="show results in a list" class="mode button" data-view="list" id="listview">list</a><a href="#pic" title="show results in a list with thumbnail pictures" class="mode button" data-view="pic" id="picview">thumb</a><a href="#grid" title="show results side-by-side with larger pictures" class="mode button" data-view="grid" id="gridview">gallery</a><a href="#map" title="show results on a map" class="mapview mode button" data-view="map" id="mapview">map</a></span><span class="paginator buttongroup">
+<span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 48 of <span class="resultcount">48</span></span><span class="button next" title="next page"> next &gt; </span>
+</span><span class="tocsort buttongroup"><span class="button sel">newest</span><a class="button" title="show most relevant matches first" href="/search/sss?sort=rel&query=f100">relevant</a><a class="button" title="sort by price, lowest to highest" href="/search/sss?sort=priceasc&query=f100"><span class='pricesort'><span class='pricesort'>$</span>$</span>$</a><a class="button" title="sort by price, highest to lowest" href="/search/sss?sort=pricedsc&query=f100">$<span class='pricesort'>$<span class='pricesort'>$</span></span></a></span>
+                    </div>
+                </div>
+
+                <div class="content">
+                    
+                     <p class="row" data-pid="4240950348"> <a href="/cto/4240950348.html" class="i" data-id="0:00S0S_jGKSGsuz63k"><span class="price">$5000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 12</span>  <a href="/cto/4240950348.html">1966 Ford F-100 LWB</a> </span> <span class="l2"> <span class="price">$5000</span>  <span class="pnr"> <small> (Pecos)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4238998130"> <a href="/cto/4238998130.html" class="i" data-id="0:00L0L_lNl1e9foxcS"><span class="price">$950</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 11</span>  <a href="/cto/4238998130.html">1966  Ford F100 long bed</a> </span> <span class="l2"> <span class="price">$950</span>  <span class="pnr"> <small> (Santa Fe)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4208109931"> <a href="/cto/4208109931.html" class="i" data-id="0:00J0J_gHogWtwhMui"><span class="price">$3200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 22</span>  <a href="/cto/4208109931.html">1968 Ford F100</a> </span> <span class="l2"> <span class="price">$3200</span>  <span class="pnr"> <small> (Santa Fe, NM)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4193023106"> <a href="/cto/4193023106.html" class="i" data-id="0:00b0b_4shu8eKaMqE"><span class="price">$2300</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/cto/4193023106.html">Ford F100 Highboy 4x4</a> </span> <span class="l2"> <span class="price">$2300</span>  <span class="pnr"> <small> (Trinidad)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4179208080"> <a href="/cto/4179208080.html" class="i" data-id="0:00r0r_6x8hRPywz7N"><span class="price">$500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  8</span>  <a href="/cto/4179208080.html">72 ford for trade</a> </span> <span class="l2"> <span class="price">$500</span>  <span class="pnr"> <small> (las vegas nm)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4169072540"> <a href="/cto/4169072540.html" class="i" data-id="0:00I0I_2OpRMQdD725"><span class="price">$1500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  3</span>  <a href="/cto/4169072540.html">1956  F100  LONGBED</a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (Santa Fe)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p><h4 class="ban nearby"><span class="bantext">Few LOCAL results found. Here are some from NEARBY areas</span></h4> <p class="row" data-pid="4192724233"> <a href="http://albuquerque.craigslist.org/cto/4192724233.html" class="i" data-id="0:00V0V_8M1dxj34V6f"><span class="price">$650</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 13</span>  <a href="http://albuquerque.craigslist.org/cto/4192724233.html">1958 Ford F100 w/big back window glass</a> </span> <span class="l2"> <span class="price">$650</span>  <span class="pnr"> <small> (Rio Rancho)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4241799450"> <a href="http://albuquerque.craigslist.org/bar/4241799450.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 12</span>  <a href="http://albuquerque.craigslist.org/bar/4241799450.html">wanted f100</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/bar/" data-cat="bar">barter</a> </span> </p> <p class="row" data-pid="4208057331"> <a href="http://albuquerque.craigslist.org/cto/4208057331.html" class="i" data-id="0:00808_2vyrzzLzVLk"><span class="price">$10950</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 12</span>  <a href="http://albuquerque.craigslist.org/cto/4208057331.html">1958 Ford F100 SB / Trades considered? </a> </span> <span class="l2"> <span class="price">$10950</span>  <span class="pnr"> <small> (Tucson)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-latitude="35.1346887280042" data-longitude="-106.64268634546" data-pid="4240610578"> <a href="http://albuquerque.craigslist.org/cto/4240610578.html" class="i" data-id="0:00c0c_fJaFgl4Iros"><span class="price">$4250</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 12</span>  <a href="http://albuquerque.craigslist.org/cto/4240610578.html">1964 FORD CUSTOM CAB F100</a> </span> <span class="l2"> <span class="price">$4250</span>  <span class="pnr"> <small> (albuquerque)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4240610578">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4188415354"> <a href="http://albuquerque.craigslist.org/cto/4188415354.html" class="i" data-id="0:01515_5vQ8I8RVfmB"><span class="price">$5200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 11</span>  <a href="http://albuquerque.craigslist.org/cto/4188415354.html">1972 f100 </a> </span> <span class="l2"> <span class="price">$5200</span>  <span class="pnr"> <small> (se abq)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4226146991"> <a href="http://albuquerque.craigslist.org/mcy/4226146991.html" class="i" data-id="0:00N0N_jCn6pPot4lK"><span class="price">$5200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 11</span>  <a href="http://albuquerque.craigslist.org/mcy/4226146991.html">1972 f100 short bed</a> </span> <span class="l2"> <span class="price">$5200</span>  <span class="pnr"> <small> (se abq)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/mcy/" data-cat="mcy">motorcycles/scooters - by owner</a> </span> </p> <p class="row" data-pid="4238779283"> <a href="http://albuquerque.craigslist.org/pts/4238779283.html" class="i"><span class="price">$89</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 10</span>  <a href="http://albuquerque.craigslist.org/pts/4238779283.html">Ford Mustang AOD torque converter</a> </span> <span class="l2"> <span class="price">$89</span>  <span class="pnr"> <small> (Alb NE)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-latitude="35.1346887280042" data-longitude="-106.64268634546" data-pid="4237663837"> <a href="http://albuquerque.craigslist.org/cto/4237663837.html" class="i" data-id="0:01010_fFwIAsTvMw7"><span class="price">$3000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec 10</span>  <a href="http://albuquerque.craigslist.org/cto/4237663837.html">1966 FORD F100 </a> </span> <span class="l2"> <span class="price">$3000</span>  <span class="pnr"> <small> (ALBUQUERQUE)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4237663837">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4207952194"> <a href="http://albuquerque.craigslist.org/cto/4207952194.html" class="i" data-id="0:00e0e_imWumubXKlf"><span class="price">$6200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  8</span>  <a href="http://albuquerque.craigslist.org/cto/4207952194.html">1956 ford f100 pick up</a> </span> <span class="l2"> <span class="price">$6200</span>  <span class="pnr"> <small> (rio rancho)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-latitude="35.044791649953" data-longitude="-106.689325109981" data-pid="4234967681"> <a href="http://albuquerque.craigslist.org/cto/4234967681.html" class="i" data-id="0:00p0p_c8oX12nuJuk"><span class="price">$12500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  8</span>  <a href="http://albuquerque.craigslist.org/cto/4234967681.html">1979 F100 4x4</a> </span> <span class="l2"> <span class="price">$12500</span>  <span class="pnr">  <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4234967681">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4234523683"> <a href="http://albuquerque.craigslist.org/cto/4234523683.html" class="i" data-id="0:00606_gkxKe6NTJxI"><span class="price">$1</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  8</span>  <a href="http://albuquerque.craigslist.org/cto/4234523683.html">71 ford f100 for trade</a> </span> <span class="l2"> <span class="price">$1</span>  <span class="pnr"> <small> (albuquerque)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4183850491"> <a href="http://albuquerque.craigslist.org/cto/4183850491.html" class="i" data-id="0:00a0a_7WsGWDlg1nH"><span class="price">$16500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  5</span>  <a href="http://albuquerque.craigslist.org/cto/4183850491.html">1955 Ford F100 Pickup</a> </span> <span class="l2"> <span class="price">$16500</span>  <span class="pnr"> <small> (Los Lunas)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4230676093"> <a href="http://albuquerque.craigslist.org/cto/4230676093.html" class="i" data-id="0:00w0w_hUftu70GuO1"><span class="price">$5300</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  5</span>  <a href="http://albuquerque.craigslist.org/cto/4230676093.html">1971 F100 PU, Barn Find, "unmolested"</a> </span> <span class="l2"> <span class="price">$5300</span>  <span class="pnr"> <small> (Corrales)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4211783086"> <a href="http://albuquerque.craigslist.org/cto/4211783086.html" class="i" data-id="0:00v0v_7VgWaTAzm0M"><span class="price">$2000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  4</span>  <a href="http://albuquerque.craigslist.org/cto/4211783086.html">1981 ford f100 </a> </span> <span class="l2"> <span class="price">$2000</span>  <span class="pnr"> <small> (Rio Rancho)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4226999803"> <a href="http://albuquerque.craigslist.org/cto/4226999803.html" class="i" data-id="0:00O0O_g1QTHf2NkOb"><span class="price">$3500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  3</span>  <a href="http://albuquerque.craigslist.org/cto/4226999803.html">1959 ford f100 driver</a> </span> <span class="l2"> <span class="price">$3500</span>  <span class="pnr"> <small> (ne)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4226012977"> <a href="http://clovis.craigslist.org/pts/4226012977.html" class="i"><span class="price">$400</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  3</span>  <a href="http://clovis.craigslist.org/pts/4226012977.html">Ford 360 w/ C6 transmission</a> </span> <span class="l2"> <span class="price">$400</span>  <span class="pnr"> <small> (Portales, NM)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-latitude="35.099165344708" data-longitude="-106.545512703411" data-pid="4225086267"> <a href="http://albuquerque.craigslist.org/cto/4225086267.html" class="i"><span class="price">$1000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Dec  2</span>  <a href="http://albuquerque.craigslist.org/cto/4225086267.html">79 f100 </a> </span> <span class="l2"> <span class="price">$1000</span>  <span class="pnr"> <small> (ne albuquerque)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4225086267">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4200260613"> <a href="http://albuquerque.craigslist.org/pts/4200260613.html" class="i"><span class="price">$600</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 30</span>  <a href="http://albuquerque.craigslist.org/pts/4200260613.html">302 with 4 speed</a> </span> <span class="l2"> <span class="price">$600</span>  <span class="pnr"> <small> (Belen)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-pid="4213767770"> <a href="http://albuquerque.craigslist.org/tag/4213767770.html" class="i" data-id="0:00j0j_k7CESrNvFMr"><span class="price">$800</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 29</span>  <a href="http://albuquerque.craigslist.org/tag/4213767770.html">BIG HOTWHEELS COLLECTION FOR SALE, est-700 CARS</a> </span> <span class="l2"> <span class="price">$800</span>  <span class="pnr"> <small> (NE ABQ)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/tag/" data-cat="tag">toys &amp; games - by owner</a> </span> </p> <p class="row" data-pid="4215714004"> <a href="http://farmington.craigslist.org/cto/4215714004.html" class="i" data-id="0:01515_4ZSJkGzBLvI"><span class="price">$1500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 26</span>  <a href="http://farmington.craigslist.org/cto/4215714004.html">1967 Ford F100 Runs Great</a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (Durango)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4168115510"> <a href="http://roswell.craigslist.org/pts/4168115510.html" class="i" data-id="0:00l0l_5J6RoqmzCsw"><span class="price">$1600</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 25</span>  <a href="http://roswell.craigslist.org/pts/4168115510.html">1958 F100  P/U</a> </span> <span class="l2"> <span class="price">$1600</span>  <span class="pnr"> <small> (ALBUQUERQUE)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-pid="4213168699"> <a href="http://albuquerque.craigslist.org/cto/4213168699.html" class="i" data-id="0:00w0w_5iB4sRC0MGj"><span class="price">$6900</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 25</span>  <a href="http://albuquerque.craigslist.org/cto/4213168699.html">1996 Toyota 4runner Limited *Rock Crawler*</a> </span> <span class="l2"> <span class="price">$6900</span>  <span class="pnr"> <small> (Rio Rancho)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4193339009"> <a href="http://albuquerque.craigslist.org/pts/4193339009.html" class="i" data-id="0:00G0G_3OLUhYY0ZdC"><span class="price">$80</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 25</span>  <a href="http://albuquerque.craigslist.org/pts/4193339009.html">1967-1972 F100-F250 Hood</a> </span> <span class="l2"> <span class="price">$80</span>  <span class="pnr"> <small> (Rio Rancho)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-pid="4211628003"> <a href="http://farmington.craigslist.org/cto/4211628003.html" class="i"><span class="price">$1500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 24</span>  <a href="http://farmington.craigslist.org/cto/4211628003.html">Ford F100  1967 Pick up</a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (Durango)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4152071659"> <a href="http://albuquerque.craigslist.org/pts/4152071659.html" class="i" data-id="0:00P0P_9cYPxszkCrS"><span class="price">$800</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 22</span>  <a href="http://albuquerque.craigslist.org/pts/4152071659.html">1965 ford F100 stepside short bed</a> </span> <span class="l2"> <span class="price">$800</span>  <span class="pnr"> <small> (Rio Rancho NM)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-latitude="31.9224581455555" data-longitude="-98.5330990093938" data-pid="4198865473"> <a href="http://albuquerque.craigslist.org/cto/4198865473.html" class="i"><span class="price">$3500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 18</span>  <a href="http://albuquerque.craigslist.org/cto/4198865473.html">1964 f100 short bed fleetside ford </a> </span> <span class="l2"> <span class="price">$3500</span>  <span class="pnr"> <small> (comanche tx)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4198865473">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4196497859"> <a href="http://albuquerque.craigslist.org/cto/4196497859.html" class="i" data-id="0:01515_bJCmBXodugu"><span class="price">$3800</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 16</span>  <a href="http://albuquerque.craigslist.org/cto/4196497859.html">1969 F100 truck</a> </span> <span class="l2"> <span class="price">$3800</span>  <span class="pnr"> <small> (Albuquerque)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4191559412"> <a href="http://albuquerque.craigslist.org/pts/4191559412.html" class="i" data-id="0:00l0l_8lu8vFPuT8g"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="http://albuquerque.craigslist.org/pts/4191559412.html">72 Ford F100 clean title</a> </span> <span class="l2">   <span class="pnr"> <small> (Belen NM)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-pid="4169783154"> <a href="http://farmington.craigslist.org/pts/4169783154.html" class="i" data-id="0:01313_cMNXKZKKkMU"><span class="price">$2000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="http://farmington.craigslist.org/pts/4169783154.html">American Racing Torue Thrusts</a> </span> <span class="l2"> <span class="price">$2000</span>  <span class="pnr"> <small> (farmington)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-pid="4188373052"> <a href="http://clovis.craigslist.org/cto/4188373052.html" class="i"><span class="price">$850</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="http://clovis.craigslist.org/cto/4188373052.html">Ford F100</a> </span> <span class="l2"> <span class="price">$850</span>  <span class="pnr"> <small> (Clovis)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4187265319"> <a href="http://clovis.craigslist.org/cto/4187265319.html" class="i" data-id="0:00O0O_3leirDYgOrn"><span class="price">$1500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="http://clovis.craigslist.org/cto/4187265319.html">1968 ford f100</a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (clovis)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-latitude="35.1012852885498" data-longitude="-106.707201393188" data-pid="4186346571"> <a href="http://albuquerque.craigslist.org/cto/4186346571.html" class="i" data-id="0:00x0x_9jvDCxLP0h0"><span class="price">$5500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 11</span>  <a href="http://albuquerque.craigslist.org/cto/4186346571.html">65 Ford F100 StepSide</a> </span> <span class="l2"> <span class="price">$5500</span>  <span class="pnr"> <small> (nw albuquerque)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4186346571">map</a></span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4127333898"> <a href="http://albuquerque.craigslist.org/cto/4127333898.html" class="i" data-id="0:01111_hdMk8151qxz"><span class="price">$8000</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  9</span>  <a href="http://albuquerque.craigslist.org/cto/4127333898.html">1958 f100 shortbed halftone custom cab</a> </span> <span class="l2"> <span class="price">$8000</span>  <span class="pnr"> <small> (albuquerque, nm)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4181655498"> <a href="http://albuquerque.craigslist.org/cto/4181655498.html" class="i"><span class="price">$1200</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  9</span>  <a href="http://albuquerque.craigslist.org/cto/4181655498.html">1971 Ford F100</a> </span> <span class="l2"> <span class="price">$1200</span>  <span class="pnr"> <small> (Albuquerque)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4181498304"> <a href="http://albuquerque.craigslist.org/cto/4181498304.html" class="i" data-id="0:00a0a_6puKHpcYjDs"><span class="price">$99</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  9</span>  <a href="http://albuquerque.craigslist.org/cto/4181498304.html">1968 Ford F100</a> </span> <span class="l2"> <span class="price">$99</span>  <span class="pnr"> <small> (Rio Rancho, NM)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4178586717"> <a href="http://albuquerque.craigslist.org/cto/4178586717.html" class="i" data-id="0:00b0b_aMvU55HoC8z"><span class="price">$700</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  7</span>  <a href="http://albuquerque.craigslist.org/cto/4178586717.html">Ford f100</a> </span> <span class="l2"> <span class="price">$700</span>  <span class="pnr"> <small> (corrales)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4177242522"> <a href="http://roswell.craigslist.org/cto/4177242522.html" class="i" data-id="0:00o0o_gWmfnJhfjUr"><span class="price">$1500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  7</span>  <a href="http://roswell.craigslist.org/cto/4177242522.html">1963 f100 </a> </span> <span class="l2"> <span class="price">$1500</span>  <span class="pnr"> <small> (roswell)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4141525716"> <a href="http://farmington.craigslist.org/cto/4141525716.html" class="i" data-id="0:01616_aM7DLvASx3T"><span class="price">$600</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  7</span>  <a href="http://farmington.craigslist.org/cto/4141525716.html">1968 Ford f100</a> </span> <span class="l2"> <span class="price">$600</span>  <span class="pnr"> <small> (bloomfield)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4174338980"> <a href="http://roswell.craigslist.org/cto/4174338980.html" class="i" data-id="0:00O0O_dQXLMyBvw4c"><span class="price">$4500</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  5</span>  <a href="http://roswell.craigslist.org/cto/4174338980.html">Ford f100 1967 Ruidoso, NM</a> </span> <span class="l2"> <span class="price">$4500</span>  <span class="pnr"> <small> (Ruidoso, NM)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4117079765"> <a href="http://albuquerque.craigslist.org/cto/4117079765.html" class="i" data-id="0:00L0L_lurgmv0VZJ2"><span class="price">$1800</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  5</span>  <a href="http://albuquerque.craigslist.org/cto/4117079765.html">1951 Ford F100</a> </span> <span class="l2"> <span class="price">$1800</span>  <span class="pnr"> <small> (ABQ)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/cto/" data-cat="cto">cars &amp; trucks - by owner</a> </span> </p> <p class="row" data-pid="4168687185"> <a href="http://farmington.craigslist.org/pts/4168687185.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  3</span>  <a href="http://farmington.craigslist.org/pts/4168687185.html">WTB: 1951-1952 Ford F1,have 1953-1956 F100</a> </span> <span class="l2">   <span class="pnr"> <small> (NM)</small> <span class="px"> <span class="p"> </span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p> <p class="row" data-pid="4164819059"> <a href="http://albuquerque.craigslist.org/pts/4164819059.html" class="i" data-id="0:00h0h_bU2CYldthad"><span class="price">$90</span></a> <span class="star"></span> <span class="pl"> <span class="date">Nov  1</span>  <a href="http://albuquerque.craigslist.org/pts/4164819059.html">chrome bumper</a> </span> <span class="l2"> <span class="price">$90</span>  <span class="pnr"> <small> (albuquerque)</small> <span class="px"> <span class="p"> pic</span></span> </span>  <a class="gc" href="/pts/" data-cat="pts">auto parts - by owner</a> </span> </p>
+                    
+                </div>
+
+                
+
+            </div>
+            <div id="floater">
+                <img class="loading" src="http://www.craigslist.org/images/map/animated-spinny.gif">
+                <img class="payload" src="http://www.craigslist.org/images/map/animated-spinny.gif">
+            </div>
+
+
+
+            <section class="blurbs">
+                
+            </section>
+        </section>
+        
+        <footer>
+	
+			<span class="rss">
+				<a class="l" href="http://santafe.craigslist.org/search/sss?query=f100&amp;format=rss">RSS</a>
+				<a href="http://www.craigslist.org/about/rss">(?)</a><br>
+			</span>
+			
+	<ul class="clfooter">
+		<li>&copy; 2013 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+		<li><a href="//www.craigslist.org/about/help/">help</a></li>
+		<li><a href="//www.craigslist.org/about/scams">safety</a></li>
+		<li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+		<li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+		<li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+		<li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+		<li><a href="//www.craigslist.org/about/">about</a></li>
+		<li class="fsel desktop" data-mode="mobile"><a href="#">mobile</a></li>
+		<li class="fsel mobile" data-mode="regular"><a href="#">desktop</a></li>
+	</ul>
+</footer>
+    </article>
+    <!--[if lte IE 7]>
+        <script type="text/javascript" src="//www.craigslist.org/js/json2.js?v=c1da07f5953739dffc17fd1db3c5313c" ></script>
+    <![endif]-->
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery-1.9.1.js?v=56eaef3b8a28d9d45bb4f86004b0eaae" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery-ui-1.9.2.custom.js?v=32c38510c8db71f2fbef00da891aeaac" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/formats.js?v=ed8c14d8c402d378a689312576dc5041" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/toChecklist.js?v=b163a7aa23a6dad79076f92e56c622f7" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery.form-defaults.js?v=421648d06bad2f29bbfc2f66c5205aeb" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/tocs.js?v=184ae74e9c8c08a59fdf19980d70f699" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/favorites.js?v=f710a4aac353592ae2b347f9c9b5c9b3" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/suggestions.js?v=febb5f24aa5f9fa0b8d744f6bed5eaaa" ></script>
+    
+    <script type="text/javascript" src="//www.craigslist.org/js/postings.js?v=6e6f74533847a0a000c27a7bcbba53fe" defer async></script>
+</body>
+</html>
+
